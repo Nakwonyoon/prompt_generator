@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://github.com/nakwonyoon" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_ai_summarizer/assets/151519281/90267296-c133-4cb1-a27e-fe1a3aa522b9" alt="Project Banner">
-    </a>
+ 
   <br />
 
   <div>
@@ -27,11 +25,6 @@
 4. 🤸 [Quick Start](#quick-start)
 
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 
 ## <a name="introduction">🤖 Introduction</a>
